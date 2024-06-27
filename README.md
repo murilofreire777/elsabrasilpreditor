@@ -12,6 +12,7 @@ The sources folder contains the predictor Python Files. Besides python, you need
 Commands are below:
 
 > pip install pandas
+
 > pip install scikit-learn==1.2.2
 
 Both models, for hypertension and diabetes, are inside the models.zip file, unpack this file on project root.
