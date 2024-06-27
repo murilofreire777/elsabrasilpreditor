@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/murilofreire777/elsabrasilpreditor/master/sources/elsa.png" width="128">
-
 ![stack Overflow](https://raw.githubusercontent.com/murilofreire777/elsabrasilpreditor/master/sources/elsa.png)
 
 # Elsa Brasil Predictor  📝  
